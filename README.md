@@ -40,5 +40,5 @@ Here are some ideas to get you started:
 
  
 # :mailbox_with_mail: Contacts
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://jwlee4450.tistory.com/)](https://jwlee4450.tistory.com/)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=Tistory&link=https://jwlee4450.tistory.com/)](https://jwlee4450.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jwlee4450@gmail.com)](mailto:jwlee4450@gmail.com)
